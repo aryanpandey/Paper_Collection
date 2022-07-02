@@ -1,4 +1,8 @@
 # Paper_Collection
+
+### The papers for any given day can be viewed in the discussion tab on this repo. Each entry contains the name of the paper, the link to the PDF of the paper and the paper's abstract
+
+## About this Repository
 A small repository to extract and store the summaries of the most recent papers which fall under the following keywords:
 - Point Cloud (Computer Vision)
 - Transformer (Computer Vision)
@@ -6,4 +10,4 @@ A small repository to extract and store the summaries of the most recent papers 
 - Pose Estimation
 - Generative Models
 
-The papers for any given day can be viewed in the discussion tab. Each entry contains the name of the paper, the link to the PDF of the paper and the paper's abstract
+
