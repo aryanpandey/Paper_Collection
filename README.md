@@ -4,10 +4,8 @@
 
 ## About this Repository
 A small repository to extract and store the summaries of the most recent papers which fall under the following keywords:
-- Point Cloud (Computer Vision)
-- Transformer (Computer Vision)
-- Causal Inference
-- Pose Estimation
+- Segmentation (With a slight focus on Unsupervised Segmentations)
+- Object Detection
 - Generative Models
 
 
